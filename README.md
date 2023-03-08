@@ -4,7 +4,7 @@
 
 - 💻 Sou iniciante na área de programação,
 - 📚 Estou estudando HTML, CSS e JS.
-- 🔭 Também vejo um pouco de Python, SQL e C# (para ir me familiarizando).
+- 🔭 Também vejo um pouco de Python, SQL e JAVA (para ir me familiarizando).
 - 💬 Tenho 25 anos.
  <div>
  - 📫: </br></br> 
