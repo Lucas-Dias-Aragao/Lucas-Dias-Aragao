@@ -8,7 +8,7 @@
 - 💬 Tenho 25 anos.
  <div>
  - 📫: </br></br> 
-   <a href="https://www.linkedin.com/in/lucas-dias-aragão-2b619623a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/lucas-arag%C3%A3o-2b619623a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 
 ##
