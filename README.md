@@ -5,7 +5,7 @@
 - 💻 Sou iniciante na área de programação,
 - 📚 Estou estudando HTML, CSS e JS.
 - 🔭 Também vejo um pouco de Python, SQL e JAVA.
-- 💬 Tenho 25 anos.
+- 💬 Tenho 26 anos.
 - [Aqui eu também pratico.](https://www.hackerrank.com/lucasd_aragao)
 <div>
  - 📫: </br></br> 
