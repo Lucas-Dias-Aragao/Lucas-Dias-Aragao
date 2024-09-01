@@ -2,10 +2,9 @@
 
 ### Meu nome é Lucas Dias, atualmente...
 
-- 💻 Sou iniciante na área de programação,
-- 📚 Estou estudando HTML, CSS e JS.
-- 🔭 Também vejo um pouco de Python, SQL e JAVA.
-- 💬 Tenho 26 anos.
+- 💻 Estudante de programação,
+- 📚 Conhecimento em Java, SQL e desenvolvimento web.
+- 💬 Tenho 27 anos.
 - [Aqui eu também pratico.](https://www.hackerrank.com/lucasd_aragao)
 <div>
  - 📫: </br></br> 
