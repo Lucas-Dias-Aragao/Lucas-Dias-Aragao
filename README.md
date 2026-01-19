@@ -4,7 +4,7 @@
 
 - 💻 Estudante de programação,
 - 📚 Conhecimento em Java, SQL e desenvolvimento web.
-- 💬 Tenho 27 anos.
+- 💬 Tenho 28 anos.
 - [Aqui eu também pratico.](https://www.hackerrank.com/lucasd_aragao)
 <div>
  - 📫: </br></br> 
